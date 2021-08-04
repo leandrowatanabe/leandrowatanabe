@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leandro watanabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro watanabe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leandro-watanabe-096896160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-watanabe-096896160" height="30" width="40" /></a>
 <a href="https://instagram.com/setsuo_leandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="setsuo_leandro" height="30" width="40" /></a>
 </p>
 
