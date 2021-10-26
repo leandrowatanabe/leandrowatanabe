@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Watanabe</h1>
 <h3 align="center">A Fullstack development student</h3>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/LeandroWatanabe"><img src="https://api.daily.dev/devcards/f6c33515b0bd4b9392c615a3f99d9940.png?r=u35" width="400" alt="Leandro Setsuo Watanabe's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
