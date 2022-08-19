@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Leandro Watanabe</h1>
 <h3 align="center"Desenvolvedor Full Stack</h3>
 
-<p align="center"> Formado em Engenharia Elétrica pela Unicamp em Dezembro de 2021, descobri minha paixão pelo desenvolvimento WEB quando participei da segunda edição do Bootcamp Hiring Coders promovido pela Gama Academy. No Bootcamp tive contato com HTML, CSS e JavaScript, um pouco de React, Node e GraphQL. Ao longo da minha graduação sempre me interessei bastante pelas disciplinas que envolviam programação e algum tipo de lógica. Prazer em conhecê-lo! </p>
+<p align="left"> Formado em Engenharia Elétrica pela Unicamp em Dezembro de 2021, descobri minha paixão pelo desenvolvimento WEB quando participei da segunda edição do Bootcamp Hiring Coders promovido pela Gama Academy. No Bootcamp tive contato com HTML, CSS e JavaScript, um pouco de React, Node e GraphQL. Ao longo da minha graduação sempre me interessei bastante pelas disciplinas que envolviam programação e algum tipo de lógica. Prazer em conhecê-lo! </p>
 
 <a href="https://app.daily.dev/LeandroWatanabe"><img src="https://api.daily.dev/devcards/f6c33515b0bd4b9392c615a3f99d9940.png?r=u35" width="400" alt="Leandro Setsuo Watanabe's Dev Card"/></a>
 
