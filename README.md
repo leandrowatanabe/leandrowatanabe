@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrowatanabe&show_icons=true&locale=en" alt="leandrowatanabe" /></p>
 
 <a href="https://app.daily.dev/LeandroWatanabe"><img src="https://api.daily.dev/devcards/f6c33515b0bd4b9392c615a3f99d9940.png?r=u35" width="400" alt="Leandro Setsuo Watanabe's Dev Card"/></a>
+
+<img src="https://www.codewars.com/users/leandrowatanabe/badges/large"/>
