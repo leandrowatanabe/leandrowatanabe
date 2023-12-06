@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Leandro Watanabe</h1>
 <h3 align="center"Desenvolvedor Full Stack</h3>
 
-<p> Formado em Engenharia Elétrica pela Unicamp em Dezembro de 2021, descobri minha paixão pelo desenvolvimento WEB quando participei da segunda edição do Bootcamp Hiring Coders promovido pela Gama Academy. No Bootcamp tive contato com HTML, CSS e JavaScript, um pouco de React, Node e GraphQL. Ao longo da minha graduação sempre me interessei bastante pelas disciplinas que envolviam programação e algum tipo de lógica. Prazer em conhecê-lo! </p>
+<p>Atualmente atuando como Engenheiro de Software na Indigo Hive. Trabalhei com ReactJS e NodeJS até maio de 2023, atualmente trabalhando com VueJS e dotNet. Formado em Engenharia Elétrica pela Unicamp em Dezembro de 2021, descobri minha paixão pelo desenvolvimento WEB quando participei da segunda edição do Bootcamp Hiring Coders promovido pela Gama Academy. No Bootcamp tive contato com HTML, CSS e JavaScript, um pouco de React, Node e GraphQL. Ao longo da minha graduação sempre me interessei bastante pelas disciplinas que envolviam programação e algum tipo de lógica. Prazer em conhecê-lo! </p>
 
 
 
